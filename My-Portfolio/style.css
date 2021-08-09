@@ -1,0 +1,32 @@
+th{
+    /* color:beige; */
+    font-size: 20px;
+    margin-top: 60px;
+    font-family: 'Redressed', cursive;
+    
+}
+td{
+    /* color: beige;; */
+    font-size: 20px;
+    margin-top: 60px;
+    font-family: 'Redressed', cursive;
+
+}
+.input{
+  color:black;
+  padding:20px;
+  float: center;
+  /* background: ; */
+
+}
+/* button a{
+  padding: 5px;
+  font-size: 6px;
+}
+button a:hover{
+  color:black
+} */
+
+/* div {
+  background-image: url('img_girl.jpg');
+} */
